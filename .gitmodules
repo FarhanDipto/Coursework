@@ -1,0 +1,18 @@
+[submodule "DSA"]
+	path = DSA
+	url = https://github.com/FarhanDipto/DSA.git
+[submodule "CyberSecurity"]
+	path = CyberSecurity
+	url = https://github.com/FarhanDipto/CyberSecurity.git
+[submodule "FormalLanguageCompiler"]
+	path = FormalLanguageCompiler
+	url = https://github.com/FarhanDipto/FormalLanguageCompiler.git
+[submodule "NumericalMethods"]
+	path = NumericalMethods
+	url = https://github.com/FarhanDipto/NumericalMethods.git
+[submodule "DigitalImageProcessing"]
+	path = DigitalImageProcessing
+	url = https://github.com/FarhanDipto/DigitalImageProcessing.git
+[submodule "ComputerGraphics"]
+	path = ComputerGraphics
+	url = https://github.com/FarhanDipto/ComputerGraphics.git
